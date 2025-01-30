@@ -4,7 +4,7 @@ public class Episode {
     private String episodeTitle;
     private int episodeNumber;
     private int seasonNumber;
-    private int runTimee;
+    private int runTime;
 
     public Episode(String episodeTitle, int episodeNumber, int seasonNumber, int runTime) {
         this.episodeTitle = episodeTitle;
